@@ -1,0 +1,162 @@
+#content{
+	background-color: #008c3e;
+	border: none;
+}
+
+#resisterMenu{
+	opacity: 0.4;
+}
+
+label{
+	font-size: 20px;
+	display: block;
+	height: 20px;
+	width: 140px;
+	border-right: dashed 1px white;
+	margin: 20px 0px 0px 70px;
+}
+
+input#UserUsername{
+	position: absolute;
+	top: 80px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+input#UserPassword{
+	position: absolute;
+	top: 120px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+input#UserFirstname{
+	position: absolute;
+	top: 160px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+input#UserFamilyname{
+	position: absolute;
+	top: 200px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+select#UserFamilyrole{
+	position: absolute;
+	top: 245px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+select#UserAge{
+	position: absolute;
+	top: 285px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+select#UserMonth{
+	position: absolute;
+	top: 325px;
+	left: 270px;
+	height: 20px;
+	width: 45px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+select#UserDay{
+	position: absolute;
+	top: 325px;
+	left: 338px;
+	height: 20px;
+	width: 45px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+input#UserIcon{
+	position: absolute;
+	top: 360px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+p#month{
+	position: absolute;
+	top: 305px;
+	left: 320px;
+}
+
+p#day{
+	position: absolute;
+	top: 305px;
+	left: 385px;
+}
+
+div#resister{
+	text-align: center;
+}
+
+#resister input{
+	width: 315px;
+	height: 50px;
+	background-color: white;
+	color: #008c3e;
+	font-size: 25px;
+	font-family: Andale Mono, Apple Braille, Arial Hebrew, Avenir Next;
+	margin-top: 35px;
+}
+
+
+#group{
+	margin-top: 50px;
+}
+
+#group label{
+	margin-top: 50px;
+}
+
+input#FamilyName{
+	position: absolute;
+	top: 110px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}
+
+input#FamilyPass{
+	position: absolute;
+	top: 180px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #008c3e;
+	font-size: 15px;
+}

@@ -1,0 +1,57 @@
+#content{
+	background-color: #ff9500;
+	/*background-color: #00a0e9;*/
+	border: none;
+}
+
+#loginMenu{
+	opacity: 0.4;
+}
+
+#idLogin, #passLogin{
+	margin: 0 auto;
+	width: 310px;
+}
+
+label{
+	font-size: 20px;
+	display: block;
+	height: 25px;
+	width: 135px;
+	border-right: dashed 1px white;
+	margin: 60px 0px 0px 0px;
+}
+
+input#UserUsername{
+	position: absolute;
+	top: 120px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #ff9500;
+	font-size: 15px;
+}
+
+input#UserPassword{
+	position: absolute;
+	top: 205px;
+	left: 265px;
+	height: 20px;
+	width: 130px;
+	color: #ff9500;
+	font-size: 15px;
+}
+
+div#login{
+	text-align: center;
+}
+
+#login input{
+	width: 315px;
+	height: 50px;
+	background-color: white;
+	color: #ff9500;
+	font-size: 25px;
+	font-family: Andale Mono, Apple Braille, Arial Hebrew, Avenir Next;
+	margin-top: 40px;
+}

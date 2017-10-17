@@ -1,0 +1,65 @@
+#content{
+	background-color: #00a0e9;
+	border: none;
+}
+
+#profileMenu{
+	opacity: 0.4;
+}
+
+#invite{
+	position: absolute;
+	top: 20px;
+	right: 20px;
+}
+
+#prof{
+	font-size: 20px;
+	margin: 50px 0 0 60px;
+	/*text-align: center;*/
+}
+
+.profLabel{
+	font-size: 20px;
+	display: block;
+	height: 25px;
+	width: 130px;
+	border-right: dashed 1px white;
+	margin: 10px 0px 0px 0px;
+}
+
+p#id{
+	position: absolute;
+	top: 90px;
+	left: 260px;
+}
+
+p#familyName{
+	position: absolute;
+	top: 135px;
+	left: 260px;
+}
+
+p#firstName{
+	position: absolute;
+	top: 135px;
+	left: 340px;
+}
+
+p#role{
+	position: absolute;
+	top: 185px;
+	left: 260px;
+}
+
+p#age{
+	position: absolute;
+	top: 230px;
+	left: 260px;
+}
+
+p#birth{
+	position: absolute;
+	top: 270px;
+	left: 260px;
+}

@@ -1,0 +1,1044 @@
+2015-06-30 17:08:51 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Users/taiheimishima/echo/cakephp/app/Controller/DatasController.php, line 2]
+2015-06-30 17:08:51 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/taiheimi...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#3 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-30 17:10:20 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Users/taiheimishima/echo/cakephp/app/Controller/DatasController.php, line 2]
+2015-06-30 17:10:20 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/taiheimi...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#3 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-30 17:12:26 Error: Fatal Error (4): syntax error, unexpected 'public' (T_PUBLIC) in [/Users/taiheimishima/echo/cakephp/app/Controller/DatasController.php, line 2]
+2015-06-30 17:12:26 Error: [FatalErrorException] syntax error, unexpected 'public' (T_PUBLIC)
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/taiheimi...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#3 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-30 17:15:42 Error: Fatal Error (4): syntax error, unexpected '(' in [/Users/taiheimishima/echo/cakephp/app/Model/Data.php, line 2]
+2015-06-30 17:15:42 Error: [FatalErrorException] syntax error, unexpected '('
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/taiheimi...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#3 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-30 17:15:43 Error: Fatal Error (4): syntax error, unexpected '(' in [/Users/taiheimishima/echo/cakephp/app/Model/Data.php, line 2]
+2015-06-30 17:15:43 Error: [FatalErrorException] syntax error, unexpected '('
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/taiheimi...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#3 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-30 17:15:50 Error: Fatal Error (4): syntax error, unexpected '(' in [/Users/taiheimishima/echo/cakephp/app/Model/Data.php, line 2]
+2015-06-30 17:15:50 Error: [FatalErrorException] syntax error, unexpected '('
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/taiheimi...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/taiheimi...', 2, Array)
+#3 /Users/taiheimishima/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-06-30 17:17:26 Error: [MissingTableException] Table data for model Data was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'data',
+  'class' => 'Data',
+  'ds' => 'default',
+)
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Model.php(3644): Model->setSource('data')
+#1 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#3 /Users/taiheimishima/echo/cakephp/app/Controller/DatasController.php(15): Model->find('all', Array)
+#4 [internal function]: DatasController->posts('hoge')
+#5 /Users/taiheimishima/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DatasController), Array)
+#6 /Users/taiheimishima/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Users/taiheimishima/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DatasController), Object(CakeRequest))
+#8 /Users/taiheimishima/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2015-06-30 17:17:48 Error: [MissingTableException] Table data for model Data was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'data',
+  'class' => 'Data',
+  'ds' => 'default',
+)
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Model.php(3644): Model->setSource('data')
+#1 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Model.php(3022): Model->getDataSource()
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#3 /Users/taiheimishima/echo/cakephp/app/Controller/DatasController.php(15): Model->find('all', Array)
+#4 [internal function]: DatasController->posts('hoge')
+#5 /Users/taiheimishima/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DatasController), Array)
+#6 /Users/taiheimishima/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 /Users/taiheimishima/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DatasController), Object(CakeRequest))
+#8 /Users/taiheimishima/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2015-06-30 17:21:38 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'name' in 'where clause'
+Request URL: /cakephp/datas/posts/hoge
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Data`.`...', Array)
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Data`.`...', Array, Array)
+#3 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Data`.`...', false)
+#4 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Data), Array)
+#5 /Users/taiheimishima/echo/cakephp/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /Users/taiheimishima/echo/cakephp/app/Controller/DatasController.php(15): Model->find('all', Array)
+#7 [internal function]: DatasController->posts('hoge')
+#8 /Users/taiheimishima/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(DatasController), Array)
+#9 /Users/taiheimishima/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/taiheimishima/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(DatasController), Object(CakeRequest))
+#11 /Users/taiheimishima/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-07-07 15:50:25 Error: [MissingControllerException] Controller class UsersController could not be found.
+Exception Attributes: array (
+  'class' => 'UsersController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/users/login
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-07-07 15:52:44 Error: [MissingViewException] View file "Users/login.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Users/login.ctp',
+)
+Request URL: /cakephp/users/login
+Stack Trace:
+#0 /Users/taiheimishima/echo/cakephp/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /Users/taiheimishima/echo/cakephp/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /Users/taiheimishima/echo/cakephp/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /Users/taiheimishima/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#4 /Users/taiheimishima/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-07-21 10:27:58 Error: Fatal Error (4): syntax error, unexpected ''familyrole'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Users/DOIasami/echo/cakephp/app/Model/User.php, line 49]
+2015-07-21 10:27:58 Error: [FatalErrorException] syntax error, unexpected ''familyrole'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 49, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 49, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-21 10:29:37 Error: Fatal Error (4): syntax error, unexpected ''familyrole'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/Users/DOIasami/echo/cakephp/app/Model/User.php, line 49]
+2015-07-21 10:29:37 Error: [FatalErrorException] syntax error, unexpected ''familyrole'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 49)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 49, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 49, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-21 10:36:48 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'age' cannot be null
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1928): DboSource->create(Object(User), Array, Array)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /Users/DOIasami/echo/cakephp/app/Controller/UsersController.php(23): Model->save(Array)
+#6 [internal function]: UsersController->register()
+#7 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-07-28 11:44:16 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/DOIasami/echo/cakephp/app/View/Users/register.ctp, line 27]
+2015-07-28 11:44:16 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 27, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 27, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 11:44:45 Error: Fatal Error (4): syntax error, unexpected ',', expecting ']' in [/Users/DOIasami/echo/cakephp/app/View/Users/register.ctp, line 40]
+2015-07-28 11:44:45 Error: [FatalErrorException] syntax error, unexpected ',', expecting ']'
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 40, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 40, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-07-28 11:45:08 Error: Fatal Error (1): Array callback has to contain indices 0 and 1 in [/Users/DOIasami/echo/cakephp/app/View/Users/register.ctp, line 40]
+2015-07-28 11:45:08 Error: [FatalErrorException] Array callback has to contain indices 0 and 1
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Array callback ...', '/Users/DOIasami...', 40)
+#1 [internal function]: ErrorHandler::handleError(1, 'Array callback ...', '/Users/DOIasami...', 40, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Array callback ...', '/Users/DOIasami...', 40, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-14 08:08:53 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW) in [/Users/DOIasami/echo/cakephp/app/View/Users/register.ctp, line 35]
+2015-08-14 08:08:53 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 35, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 35, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-14 08:09:02 Error: Fatal Error (4): syntax error, unexpected 'false' (T_STRING) in [/Users/DOIasami/echo/cakephp/app/View/Users/register.ctp, line 35]
+2015-08-14 08:09:02 Error: [FatalErrorException] syntax error, unexpected 'false' (T_STRING)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 35, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 35, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-14 08:10:22 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in [/Users/DOIasami/echo/cakephp/app/View/Users/register.ctp, line 36]
+2015-08-14 08:10:22 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';'
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 36, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 36, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-14 08:10:50 Error: Fatal Error (4): syntax error, unexpected ',' in [/Users/DOIasami/echo/cakephp/app/View/Users/register.ctp, line 39]
+2015-08-14 08:10:50 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 39, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 39, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-14 08:18:58 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/Users/DOIasami/echo/cakephp/app/View/Users/register.ctp, line 34]
+2015-08-14 08:18:58 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 34)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 34, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 34, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-14 08:32:41 Error: [MissingControllerException] Controller class RegisterController could not be found.
+Exception Attributes: array (
+  'class' => 'RegisterController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-16 05:34:55 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [/Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php, line 58]
+2015-08-16 05:34:55 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /cakephp/uploads
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 58)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 58, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 58, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-16 05:36:34 Error: [MissingActionException] Action UploadsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => 'index',
+)
+Request URL: /cakephp/uploads
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 06:14:36 Error: [MissingControllerException] Controller class MessageController could not be found.
+Exception Attributes: array (
+  'class' => 'MessageController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/message
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-16 06:15:06 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/MessagesController.php, line 15]
+2015-08-16 06:15:06 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/messages
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 15)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 15, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 15, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-16 06:20:33 Error: [MissingActionException] Action UploadsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => 'index',
+)
+Request URL: /cakephp/uploads
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 06:20:44 Error: [MissingActionException] Action UploadsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => 'index',
+)
+Request URL: /cakephp/uploads
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 06:21:36 Error: [MissingActionException] Action UploadsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => 'index',
+)
+Request URL: /cakephp/uploads/
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 06:21:40 Error: [MissingActionException] Action UploadsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => 'index',
+)
+Request URL: /cakephp/uploads
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 06:21:49 Error: [MissingActionException] Action UploadsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => 'index',
+)
+Request URL: /cakephp/uploads/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 06:22:15 Error: [MissingActionException] Action UploadsController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => 'index',
+)
+Request URL: /cakephp/uploads/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 09:18:05 Error: [MissingActionException] Action UsersController::chats() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'chats',
+)
+Request URL: /cakephp/users/chats/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 09:19:02 Error: [MissingActionException] Action UsersController::chats() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'chats',
+)
+Request URL: /cakephp/users/chats/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 09:28:21 Error: [MissingActionException] Action ChatsController::register() could not be found.
+Exception Attributes: array (
+  'controller' => 'ChatsController',
+  'action' => 'register',
+)
+Request URL: /cakephp/chats/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChatsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 09:37:39 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/ChatsController.php, line 9]
+2015-08-16 09:37:39 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/chats/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 9)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 9, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 9, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-16 09:38:51 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause'
+Request URL: /cakephp/chats/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Family`...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Family`...', Array, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Family`...', false)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Family), Array)
+#5 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /Users/DOIasami/echo/cakephp/app/Controller/ChatsController.php(10): Model->find('all', Array)
+#7 [internal function]: ChatsController->index()
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ChatsController), Array)
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChatsController), Object(CakeRequest))
+#11 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-16 11:15:24 Error: Fatal Error (4): syntax error, unexpected '}' in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 31]
+2015-08-16 11:15:24 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 31)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 31, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 31, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-16 11:15:52 Error: Fatal Error (4): syntax error, unexpected '}' in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 31]
+2015-08-16 11:15:52 Error: [FatalErrorException] syntax error, unexpected '}'
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 31)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 31, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 31, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-16 11:16:01 Error: [MissingActionException] Action FamiliesController::chats() could not be found.
+Exception Attributes: array (
+  'controller' => 'FamiliesController',
+  'action' => 'chats',
+)
+Request URL: /cakephp/families/chats/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FamiliesController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 11:16:30 Error: [MissingActionException] Action FamiliesController::chats() could not be found.
+Exception Attributes: array (
+  'controller' => 'FamiliesController',
+  'action' => 'chats',
+)
+Request URL: /cakephp/families/chats/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FamiliesController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 11:16:32 Error: [MissingActionException] Action FamiliesController::chats() could not be found.
+Exception Attributes: array (
+  'controller' => 'FamiliesController',
+  'action' => 'chats',
+)
+Request URL: /cakephp/families/chats/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FamiliesController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-16 11:16:33 Error: [MissingActionException] Action FamiliesController::chats() could not be found.
+Exception Attributes: array (
+  'controller' => 'FamiliesController',
+  'action' => 'chats',
+)
+Request URL: /cakephp/families/chats/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FamiliesController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-17 04:46:50 Error: Fatal Error (4): syntax error, unexpected '01.' (T_DNUMBER) in [/Users/DOIasami/echo/cakephp/app/View/Layouts/main.ctp, line 23]
+2015-08-17 04:46:50 Error: [FatalErrorException] syntax error, unexpected '01.' (T_DNUMBER)
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 23)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 23, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 23, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 04:47:17 Error: Fatal Error (4): syntax error, unexpected ';' in [/Users/DOIasami/echo/cakephp/app/View/Layouts/main.ctp, line 23]
+2015-08-17 04:47:17 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cakephp/users/register
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 23)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 23, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 23, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 05:23:44 Error: [MissingControllerException] Controller class UserController could not be found.
+Exception Attributes: array (
+  'class' => 'UserController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/user
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-17 05:24:19 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/index/logout
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-17 05:25:06 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/index/logout
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-17 06:11:33 Error: [MissingActionException] Action UploadsController::◯◯◯() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => '◯◯◯',
+)
+Request URL: /cakephp/uploads/%E2%97%AF%E2%97%AF%E2%97%AF
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-17 06:16:25 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/img/04_2.png
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-17 06:47:26 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 37]
+2015-08-17 06:47:26 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 37)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 37, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 37, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:50:24 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:50:24 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:50:41 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:50:41 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:50:55 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:50:55 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:51:48 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:51:48 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:52:32 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:52:32 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:53:15 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:53:15 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:53:25 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:53:25 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:53:27 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:53:27 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:53:32 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 38]
+2015-08-17 06:53:32 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:54:41 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 39]
+2015-08-17 06:54:41 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 39, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 39, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:54:42 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 39]
+2015-08-17 06:54:42 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 39, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 39, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:54:45 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 39]
+2015-08-17 06:54:45 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 39, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 39, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 06:55:00 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php, line 39]
+2015-08-17 06:55:00 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 39)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 39, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 39, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 07:09:18 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'member' in 'where clause'
+Request URL: /cakephp/Families/resister
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `User`.`...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `User`.`...', Array, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `User`.`...', false)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(3022): DboSource->read(Object(User), Array)
+#5 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(2994): Model->_readDataSource('first', Array)
+#6 /Users/DOIasami/echo/cakephp/app/Controller/FamiliesController.php(51): Model->find('first', Array)
+#7 [internal function]: FamiliesController->resister()
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(FamiliesController), Array)
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(FamiliesController), Object(CakeRequest))
+#11 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-17 07:44:27 Error: Fatal Error (4): syntax error, unexpected '{' in [/Users/DOIasami/echo/cakephp/app/Controller/ChatsController.php, line 17]
+2015-08-17 07:44:27 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/chats
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 17, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 17, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 07:45:04 Error: Fatal Error (4): syntax error, unexpected '{' in [/Users/DOIasami/echo/cakephp/app/Controller/ChatsController.php, line 17]
+2015-08-17 07:45:04 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/chats
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 17, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 17, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 07:45:17 Error: Fatal Error (4): syntax error, unexpected '{' in [/Users/DOIasami/echo/cakephp/app/Controller/ChatsController.php, line 17]
+2015-08-17 07:45:17 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/chats
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 17, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 17, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-17 08:12:39 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'username' in 'where clause'
+Request URL: /cakephp/chats
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Family`...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Family`...', Array, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Family`...', false)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Family), Array)
+#5 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(2994): Model->_readDataSource('first', Array)
+#6 /Users/DOIasami/echo/cakephp/app/Controller/ChatsController.php(22): Model->find('first', Array)
+#7 [internal function]: ChatsController->index()
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ChatsController), Array)
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ChatsController), Object(CakeRequest))
+#11 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-17 08:29:15 Error: [MissingActionException] Action UploadsController::◯◯◯() could not be found.
+Exception Attributes: array (
+  'controller' => 'UploadsController',
+  'action' => '◯◯◯',
+)
+Request URL: /cakephp/uploads/%E2%97%AF%E2%97%AF%E2%97%AF
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#2 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-17 08:31:26 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /cakephp/uploads/add
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1928): DboSource->create(Object(Upload), Array, Array)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php(47): Model->save(Array)
+#6 [internal function]: UploadsController->add()
+#7 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-08-17 08:46:34 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /cakephp/uploads/add
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1928): DboSource->create(Object(Upload), Array, Array)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php(47): Model->save(Array)
+#6 [internal function]: UploadsController->add()
+#7 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-08-17 08:48:56 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /cakephp/uploads/add
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1928): DboSource->create(Object(Upload), Array, Array)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php(48): Model->save(Array)
+#6 [internal function]: UploadsController->add()
+#7 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-08-17 08:49:17 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /cakephp/uploads/add
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1928): DboSource->create(Object(Upload), Array, Array)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php(48): Model->save(Array)
+#6 [internal function]: UploadsController->add()
+#7 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-08-17 08:51:33 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /cakephp/uploads/add
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1928): DboSource->create(Object(Upload), Array, Array)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php(54): Model->save(Array)
+#6 [internal function]: UploadsController->add()
+#7 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-08-17 08:51:43 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /cakephp/uploads/add
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1928): DboSource->create(Object(Upload), Array, Array)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php(54): Model->save(Array)
+#6 [internal function]: UploadsController->add()
+#7 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-08-17 08:54:33 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Request URL: /cakephp/uploads/add
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `bo...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `bo...')
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1928): DboSource->create(Object(Upload), Array, Array)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(1751): Model->_doSave(Array, Array)
+#5 /Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php(55): Model->save(Array)
+#6 [internal function]: UploadsController->add()
+#7 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2015-08-17 09:10:51 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'time' in 'order clause'
+Request URL: /cakephp/uploads/index
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Upload`...', Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Upload`...', Array, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Upload`...', false)
+#4 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Upload), Array)
+#5 /Users/DOIasami/echo/cakephp/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /Users/DOIasami/echo/cakephp/app/Controller/UploadsController.php(88): Model->find('all', Array)
+#7 [internal function]: UploadsController->index()
+#8 /Users/DOIasami/echo/cakephp/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(UploadsController), Array)
+#9 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/DOIasami/echo/cakephp/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(UploadsController), Object(CakeRequest))
+#11 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-18 14:54:19 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [/Users/DOIasami/echo/cakephp/app/Controller/SchedulesController.php, line 42]
+2015-08-18 14:54:19 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 42)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 42, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 42, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-18 14:56:28 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [/Users/DOIasami/echo/cakephp/app/Controller/SchedulesController.php, line 42]
+2015-08-18 14:56:28 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 42)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 42, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 42, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-18 15:04:02 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/SchedulesController.php, line 38]
+2015-08-18 15:04:02 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-18 15:04:11 Error: Fatal Error (1): Call to a member function find() on null in [/Users/DOIasami/echo/cakephp/app/Controller/SchedulesController.php, line 38]
+2015-08-18 15:04:11 Error: [FatalErrorException] Call to a member function find() on null
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 38)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 38, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-18 15:13:42 Error: Fatal Error (1): Call to a member function save() on null in [/Users/DOIasami/echo/cakephp/app/Controller/SchedulesController.php, line 18]
+2015-08-18 15:13:42 Error: [FatalErrorException] Call to a member function save() on null
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/DOIasami...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/DOIasami...', 18, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/DOIasami...', 18, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-19 01:07:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/css/login.css
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-19 01:14:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/css/resister.css
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-19 01:14:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp/css/resister.css
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-19 08:41:14 Error: Fatal Error (4): syntax error, unexpected '&' in [/Users/DOIasami/echo/cakephp/app/View/Users/login.ctp, line 11]
+2015-08-19 08:41:14 Error: [FatalErrorException] syntax error, unexpected '&'
+Request URL: /cakephp/users/login
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 11, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 11, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-19 08:41:21 Error: Fatal Error (4): syntax error, unexpected '&' in [/Users/DOIasami/echo/cakephp/app/View/Users/login.ctp, line 11]
+2015-08-19 08:41:21 Error: [FatalErrorException] syntax error, unexpected '&'
+Request URL: /cakephp/users/login
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 11, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 11, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-19 10:41:51 Error: Fatal Error (4): syntax error, unexpected '{' in [/Users/DOIasami/echo/cakephp/app/View/Uploads/index.ctp, line 10]
+2015-08-19 10:41:51 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /cakephp/uploads
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 10, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 10, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-19 12:07:43 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/Users/DOIasami/echo/cakephp/app/View/Schedules/index.ctp, line 60]
+2015-08-19 12:07:43 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 60)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 60, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 60, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-19 12:07:51 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/Users/DOIasami/echo/cakephp/app/View/Schedules/index.ctp, line 60]
+2015-08-19 12:07:51 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 60)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 60, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 60, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-19 12:07:52 Error: Fatal Error (4): syntax error, unexpected 'echo' (T_ECHO) in [/Users/DOIasami/echo/cakephp/app/View/Schedules/index.ctp, line 60]
+2015-08-19 12:07:52 Error: [FatalErrorException] syntax error, unexpected 'echo' (T_ECHO)
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 60)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 60, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 60, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-19 12:32:14 Error: Fatal Error (4): syntax error, unexpected ';' in [/Users/DOIasami/echo/cakephp/app/View/Schedules/index.ctp, line 83]
+2015-08-19 12:32:14 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/DOIasami...', 83)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/DOIasami...', 83, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/DOIasami...', 83, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-19 13:18:38 Error: Fatal Error (64): Cannot use [] for reading in [/Users/DOIasami/echo/cakephp/app/View/Schedules/index.ctp, line 90]
+2015-08-19 13:18:38 Error: [FatalErrorException] Cannot use [] for reading
+Request URL: /cakephp/schedules
+Stack Trace:
+#0 /Users/DOIasami/echo/cakephp/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(64, 'Cannot use [] f...', '/Users/DOIasami...', 90)
+#1 [internal function]: ErrorHandler::handleError(64, 'Cannot use [] f...', '/Users/DOIasami...', 90, Array)
+#2 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 64, 'Cannot use [] f...', '/Users/DOIasami...', 90, Array)
+#3 /Users/DOIasami/echo/cakephp/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

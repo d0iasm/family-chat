@@ -1,0 +1,64 @@
+#content{
+	background-color: #fff11f;
+	border: none;
+}
+
+#albumMenu{
+	opacity: 0.4;
+}
+
+#content a{
+	color: #fff11f;
+	font-size: 20px;
+	text-decoration: none;
+	display: block;
+	width: 200px;
+	height: 25px;
+	text-align: center;
+	margin: 30px auto;
+	padding: 5px;
+	border: solid 1px white;
+	background-color: white;
+	border-radius: 5px;        /* CSS3草案   
+    -webkit-border-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-radius: 5px;
+}
+
+#content a:hover{
+	opacity: 0.7;
+}
+
+label{
+	font-size: 20px;
+	margin-right: 10px;
+}
+
+#file{
+	width: 150px;
+	height: 150px;
+	overflow: scroll;
+	float: left;
+}
+
+#file img{
+	width: 150px;
+	margin: 5px;
+}
+
+#add{
+	margin-top: -55px;
+}
+
+#add a:hover{
+	opacity: 0.7;
+}
+
+#submit input{
+	width: 450px;
+	height: 30px;
+	margin: 10px auto;
+	background-color: white;
+	color: #fff11f;
+	font-size: 17px;
+	border: none;
+}

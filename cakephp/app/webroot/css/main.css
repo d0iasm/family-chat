@@ -1,0 +1,117 @@
+body{
+	font-family: Andale Mono, Apple Braille, Arial Hebrew, Avenir Next;
+	color: white;
+}
+
+header{
+	position: absolute;
+	top: 0px;
+	left: 900px;
+}
+
+#menu{
+	float: left;
+	position: relative;
+}
+
+#menu:after{
+	display: block;
+	content: "";
+	clear: both;
+}
+
+.leftMenu{
+	float: left;
+	width: 230px;
+}
+
+.leftMenu img, .bottomMenu img{
+	width: 230px;
+	height: 230px;
+}
+
+.bottomMenu{
+	float: left;
+	width: 650px;
+	height: 250px;
+	margin-top: 500px;
+	margin-left: 20px;
+}
+
+.leftMenu span, .bottomMenu span{
+	display: block;
+	float: left;
+	/*width: 230px;*/
+	/*height: 230px;*/
+	margin: 10px;
+}
+
+span#chat, span#schedule, span#album, span#profile, span#logout, span#login, span#resister{
+	line-height: 1.5;
+	color: white;
+	font-size: 20px;
+	display: block;
+}
+
+span#chatMenu a, span#scheduleMenu a, span#albumMenu a, span#profileMenu a, span#logoutMenu a, span#loginMenu a, span#resisterMenu a{
+	display: block;
+	height: 230px;
+	width: 230px;
+}
+
+
+#content{
+	position: absolute;
+	top: 20px;
+	left: 270px;
+	width: 460px;
+	height: 460px;
+	overflow: scroll;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	padding: 10px;
+}
+
+h1{
+	position: fixed;
+	top: -10px;
+	left: 770px;
+}
+
+h2{
+	margin: 10px auto;
+	border-bottom: solid 1px white;
+	height: 40px;
+	width: 150px;
+	text-align: center;
+}
+
+h3{
+	margin: 20px 0px 20px 20px;
+}
+
+input, button{
+	border:0;
+	border:solid 1px #ccc;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#invite{
+	position: absolute;
+	top: 65px;
+	right: 20px;
+}
+
+#invite input#FamilyMember{
+	width: 80px;
+	height: 20px;
+}
+
+#invite input{
+	width: 85px;
+	color: white;
+	margin-top: 5px;
+}

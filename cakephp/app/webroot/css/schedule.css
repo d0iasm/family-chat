@@ -1,0 +1,53 @@
+#content{
+	background-color: #8cc11f;
+	border: none;
+}
+
+#scheduleMenu{
+	opacity: 0.4;
+}
+
+#content a{
+	color: #8cc11f;
+	font-size: 20px;
+	text-decoration: none;
+	display: block;
+	width: 200px;
+	height: 25px;
+	text-align: center;
+	margin: 30px auto;
+	padding: 5px;
+	border: solid 1px white;
+	background-color: white;
+	border-radius: 5px;        /* CSS3草案   
+    -webkit-border-radius: 5px;    /* Safari,Google Chrome用 */  
+    -moz-border-radius: 5px;
+}
+
+#content a:hover{
+	opacity: 0.7;
+}
+
+#sendMessage input{
+	width: 450px;
+	height: 30px;
+	margin: 5px auto;
+	background-color: white;
+	color: #8cc11f;
+	font-size: 17px;
+}
+
+label{
+	font-size: 20px;
+	margin-right: 10px;
+}
+
+#mainMessage{
+	width: 205px;
+	height: 100px;
+	float: left;
+	border: solid 1px white;
+	padding: 5px;
+	overflow: scroll;
+	margin: 5px;
+}
